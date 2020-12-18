@@ -1,4 +1,4 @@
-# Sudoku-Solver-Algorithm-Parallel
+# Sudoku-Solver-Algorithm-Parallel-Backtracking
  Sudoku-Solver-Algorithm-Parallel-Backtracking
 
  
